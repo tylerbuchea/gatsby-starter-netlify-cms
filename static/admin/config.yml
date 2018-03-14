@@ -45,7 +45,7 @@ collections:
 
   - name: "podcast"
     label: "Podcast"
-    file: "src/pages/podcast/feed.xml"
+    file: "src/pages/podcast/feed.md"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
