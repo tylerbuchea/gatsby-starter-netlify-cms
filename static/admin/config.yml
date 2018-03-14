@@ -50,7 +50,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "description", name: "description", widget: "string"}
-      - {label: "link", name: "link", widget: "string"}
-      - {label: "guid", name: "guid", widget: "string"}
-      - {label: "pubDate", name: "pubDate", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Link", name: "link", widget: "string"}
+      - {label: "Guid", name: "guid", widget: "string"}
+      - {label: "Publish Date", name: "pubDate", widget: "string"}
